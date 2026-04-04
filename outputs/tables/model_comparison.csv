@@ -1,0 +1,3 @@
+model,exact_match,f1
+Pretrained BERT QA,84.0,90.64
+Fine-Tuned DistilBERT QA,71.0,80.32

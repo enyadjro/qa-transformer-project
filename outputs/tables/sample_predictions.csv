@@ -1,0 +1,101 @@
+id,question,predicted_answer,gold_answers,confidence,exact_match,f1
+56be4db0acb8001400a502ec,Which NFL team represented the AFC at Super Bowl 50?,denver broncos,"['Denver Broncos', 'Denver Broncos', 'Denver Broncos']",0.9466909170150757,1,1.0
+56be4db0acb8001400a502ed,Which NFL team represented the NFC at Super Bowl 50?,carolina panthers,"['Carolina Panthers', 'Carolina Panthers', 'Carolina Panthers']",0.7587700486183167,1,1.0
+56be4db0acb8001400a502ee,Where did Super Bowl 50 take place?,"santa clara, california","['Santa Clara, California', ""Levi's Stadium"", ""Levi's Stadium in the San Francisco Bay Area at Santa Clara, California.""]",0.47563375532627106,1,1.0
+56be4db0acb8001400a502ef,Which NFL team won Super Bowl 50?,denver broncos,"['Denver Broncos', 'Denver Broncos', 'Denver Broncos']",0.7515651285648346,1,1.0
+56be4db0acb8001400a502f0,What color was used to emphasize the 50th anniversary of the Super Bowl?,gold,"['gold', 'gold', 'gold']",0.9706136286258698,1,1.0
+56be8e613aeaaa14008c90d1,What was the theme of Super Bowl 50?,champion of the national football league ( nfl ),"['""golden anniversary""', 'gold-themed', '""golden anniversary']",0.1801561899483204,0,0.0
+56be8e613aeaaa14008c90d2,What day was the game played on?,"february 7, 2016","['February 7, 2016', 'February 7', 'February 7, 2016']",0.9665922820568085,1,1.0
+56be8e613aeaaa14008c90d3,What is the AFC short for?,american football conference ( afc ) champion denver broncos,"['American Football Conference', 'American Football Conference', 'American Football Conference']",0.5135155022144318,0,0.6
+56bea9923aeaaa14008c91b9,What was the theme of Super Bowl 50?,champion of the national football league ( nfl ),"['""golden anniversary""', 'gold-themed', 'gold']",0.1801561899483204,0,0.0
+56bea9923aeaaa14008c91ba,What does AFC stand for?,american football conference,"['American Football Conference', 'American Football Conference', 'American Football Conference']",0.8107537031173706,1,1.0
+56bea9923aeaaa14008c91bb,What day was the Super Bowl played on?,"february 7, 2016","['February 7, 2016', 'February 7', 'February 7, 2016']",0.959625244140625,1,1.0
+56beace93aeaaa14008c91df,Who won Super Bowl 50?,denver broncos,"['Denver Broncos', 'Denver Broncos', 'Denver Broncos']",0.715045690536499,1,1.0
+56beace93aeaaa14008c91e0,What venue did Super Bowl 50 take place in?,levi ' s stadium,"[""Levi's Stadium"", ""Levi's Stadium"", ""Levi's Stadium in the San Francisco Bay Area at Santa Clara""]",0.9156041145324707,0,0.4
+56beace93aeaaa14008c91e1,What city did Super Bowl 50 take place in?,"santa clara, california","['Santa Clara', 'Santa Clara', 'Santa Clara']",0.6492305994033813,0,0.8
+56beace93aeaaa14008c91e2,"If Roman numerals were used, what would Super Bowl 50 have been called?",super bowl l,"['Super Bowl L', 'L', 'Super Bowl L']",0.8587812185287476,1,1.0
+56beace93aeaaa14008c91e3,Super Bowl 50 decided the NFL champion for what season?,2015,"['2015', 'the 2015 season', '2015']",0.9247761964797974,1,1.0
+56bf10f43aeaaa14008c94fd,What year did the Denver Broncos secure a Super Bowl title for the third time?,2016,"['2015', '2016', '2015']",0.8446851372718811,1,1.0
+56bf10f43aeaaa14008c94fe,What city did Super Bowl 50 take place in?,"santa clara, california","['Santa Clara', 'Santa Clara', 'Santa Clara']",0.6492305994033813,0,0.8
+56bf10f43aeaaa14008c94ff,What stadium did Super Bowl 50 take place in?,levi ' s stadium,"[""Levi's Stadium"", ""Levi's Stadium"", ""Levi's Stadium""]",0.9748043715953827,0,0.4
+56bf10f43aeaaa14008c9500,What was the final score of Super Bowl 50? ,24 – 10,"['24–10', '24–10', '24–10']",0.21668845415115356,0,0.0
+56bf10f43aeaaa14008c9501,"What month, day and year did Super Bowl 50 take place? ","february 7, 2016","['February 7, 2016', 'February 7, 2016', 'February 7, 2016']",0.7101312130689621,1,1.0
+56d20362e7d4791d009025e8,What year was Super Bowl 50?,2016,"['2015', '2016', '2016']",0.49984653294086456,1,1.0
+56d20362e7d4791d009025e9,What team was the AFC champion?,denver broncos,"['Denver Broncos', 'Denver Broncos', 'Denver Broncos']",0.9485167264938354,1,1.0
+56d20362e7d4791d009025ea,What team was the NFC champion?,carolina panthers,"['Carolina Panthers', 'Carolina Panthers', 'Carolina Panthers']",0.7560229003429413,1,1.0
+56d20362e7d4791d009025eb,Who won Super Bowl 50?,denver broncos,"['Denver Broncos', 'Denver Broncos', 'Denver Broncos']",0.715045690536499,1,1.0
+56d600e31c85041400946eae,Super Bowl 50 determined the NFL champion for what season?,2015,"['2015', 'the 2015 season', '2015']",0.9281918704509735,1,1.0
+56d600e31c85041400946eb0,Which team won Super Bowl 50.,denver broncos,"['Denver Broncos', 'Denver Broncos', 'Denver Broncos']",0.7556421160697937,1,1.0
+56d600e31c85041400946eb1,Where was Super Bowl 50 held?,levi ' s stadium,"['Santa Clara, California.', ""Levi's Stadium"", ""Levi's Stadium""]",0.44085294008255005,0,0.4
+56d9895ddc89441400fdb50e,The name of the NFL championship game is?,super bowl 50,"['Super Bowl', 'Super Bowl', 'Super Bowl']",0.7590889632701874,0,0.8
+56d9895ddc89441400fdb510,What 2015 NFL team one the AFC playoff?,denver broncos,"['Denver Broncos', 'Denver Broncos', 'Denver Broncos']",0.9673722982406616,1,1.0
+56be4e1facb8001400a502f6,Which Carolina Panthers player was named Most Valuable Player?,cam newton,"['Cam Newton', 'Cam Newton', 'Cam Newton']",0.9595670104026794,1,1.0
+56be4e1facb8001400a502f9,How many appearances have the Denver Broncos made in the Super Bowl?,eight,"['8', 'eight', 'eight']",0.8179331421852112,1,1.0
+56be4e1facb8001400a502fa,What year was the Carolina Panthers franchise founded?,1995,"['1995', '1995', '1995']",0.996858686208725,1,1.0
+56beaa4a3aeaaa14008c91c2,What team did the Panthers defeat?,arizona cardinals,"['Arizona Cardinals', 'the Arizona Cardinals', 'Arizona Cardinals']",0.8953853845596313,1,1.0
+56beaa4a3aeaaa14008c91c3,Who did the Broncos prevent from going to the Super Bowl?,new england patriots,"['New England Patriots', 'the New England Patriots', 'New England Patriots']",0.799018532037735,1,1.0
+56bead5a3aeaaa14008c91e9,Who did the Panthers beat in the NFC Championship Game?,arizona cardinals,"['Arizona Cardinals', 'the Arizona Cardinals', 'Arizona Cardinals']",0.884047120809555,1,1.0
+56bead5a3aeaaa14008c91ea,Who lost to the Broncos in the AFC Championship?,new england patriots,"['New England Patriots', 'the New England Patriots', 'New England Patriots']",0.7450082302093506,1,1.0
+56bead5a3aeaaa14008c91eb,Who were the defending Super Bowl champions?,new england patriots,"['New England Patriots', 'the New England Patriots', 'New England Patriots']",0.7893580198287964,1,1.0
+56bead5a3aeaaa14008c91ec,How many teams have been in the Super Bowl eight times?,pittsburgh steelers,"['four', 'four', 'four']",0.49563442170619965,0,0.0
+56bead5a3aeaaa14008c91ed,Who was this season's NFL MVP?,cam newton,"['Cam Newton', 'Cam Newton', 'Cam Newton']",0.9873805642127991,1,1.0
+56bf159b3aeaaa14008c9507,What was the win/loss ratio in 2015 for the Carolina Panthers during their regular season?,15 – 1,"['15–1', '15–1', '15–1']",0.5577084273099899,0,0.0
+56bf159b3aeaaa14008c9508,Which Carolina Panthers team member was picked as the team's MVP in 2015? ,cam newton,"['Cam Newton', 'Cam Newton', 'Cam Newton']",0.9665632545948029,1,1.0
+56bf159b3aeaaa14008c9509,What were the win/loss game stats for the Denver Bronco's regular season in 2015?,12 – 4,"['12–4', '12–4', '12–4']",0.7145614922046661,0,0.0
+56bf159b3aeaaa14008c950a,How many teams have played in the Super Bowl eight times?,pittsburgh steelers,"['4', 'four', 'four']",0.5871701538562775,0,0.0
+56bf159b3aeaaa14008c950b,Which team did not get a chance to defend their Super Bowl XLIX win in Super Bowl 50?,new england patriots,"['New England Patriots', 'the New England Patriots', 'New England Patriots']",0.870569109916687,1,1.0
+56d2045de7d4791d009025f3,Who is the quarterback for the Panthers?,cam newton,"['Cam Newton', 'Cam Newton', 'Cam Newton']",0.9922832250595093,1,1.0
+56d2045de7d4791d009025f4,Who did Carolina beat in the NFC championship game?,arizona cardinals,"['Arizona Cardinals', 'the Arizona Cardinals', 'Arizona Cardinals']",0.9155953526496887,1,1.0
+56d2045de7d4791d009025f5,How many times have the Panthers been in the Super Bowl?,eight,"['2', 'second', 'second']",0.6110750734806061,0,0.0
+56d2045de7d4791d009025f6,Who did Denver beat in the AFC championship?,arizona cardinals,"['New England Patriots', 'the New England Patriots', 'New England Patriots']",0.8352447748184204,0,0.0
+56d6017d1c85041400946ebe,Who was the Most Valuable Player for the 2015 NFL season?,cam newton,"['Cam Newton', 'Cam Newton', 'Cam Newton']",0.9683195054531097,1,1.0
+56d6017d1c85041400946ec1,Who did Denver beat in the 2015 AFC Championship game?,arizona cardinals,"['New England Patriots', 'the New England Patriots', 'New England Patriots']",0.8217513263225555,0,0.0
+56d6017d1c85041400946ec2,Who did the Carolina Panthers beat in the 2015 NFC Championship game?,arizona cardinals,"['Arizona Cardinals', 'the Arizona Cardinals', 'Arizona Cardinals']",0.8788562119007111,1,1.0
+56d98a59dc89441400fdb52a,Who was the 2015 NFL MVP?,cam newton,"['Cam Newton', 'Cam Newton', 'Cam Newton']",0.9879821836948395,1,1.0
+56d98a59dc89441400fdb52b,Who did the Panthers beat to become the NFC champs?,arizona cardinals,"['Arizona Cardinals', 'the Arizona Cardinals', 'Arizona Cardinals']",0.9024444818496704,1,1.0
+56d98a59dc89441400fdb52e,What year did the Carolina Panthers form?,1995,"['1995.', '1995', '1995']",0.893924742937088,1,1.0
+56be4eafacb8001400a50302,Who was the Super Bowl 50 MVP?,von miller,"['Von Miller', 'Von Miller', 'Miller']",0.9781948328018188,1,1.0
+56be4eafacb8001400a50303,How many fumbles did Von Miller force in Super Bowl 50?,"five solo tackles, 2½ sacks, and two","['2', 'two', 'two']",0.5705142319202423,0,0.25
+56be4eafacb8001400a50304,Which team held the scoring lead throughout the entire game?,broncos,"['Broncos', 'The Broncos', 'Broncos']",0.6825514137744904,1,1.0
+56beab833aeaaa14008c91d2,Which Denver linebacker was named Super Bowl MVP?,von miller,"['linebacker Von Miller', 'Von Miller', 'Miller']",0.9948775172233582,1,1.0
+56beab833aeaaa14008c91d3,How many solo tackles did Von Miller make at Super Bowl 50?,five,"['five solo tackles', 'five', 'five']",0.8610180914402008,1,1.0
+56beab833aeaaa14008c91d4,Who was limited by Denver's defense?,newton,"[""Newton was limited by Denver's defense"", 'Newton', 'Newton']",0.9882075786590576,1,1.0
+56beae423aeaaa14008c91f4,How many times was Cam Newton sacked?,seven,"['seven', 'seven', 'seven']",0.9634714722633362,1,1.0
+56beae423aeaaa14008c91f5,Who won the Super Bowl MVP?,von miller,"['Von Miller', 'The Broncos', 'Miller']",0.9728992879390717,1,1.0
+56beae423aeaaa14008c91f6,How many turnovers did Cam Newton have?,three,"['three', 'three', 'three']",0.94447922706604,1,1.0
+56beae423aeaaa14008c91f7,How many fumbles did Von Miller force?,two,"['two', 'two', 'two']",0.6744708120822906,1,1.0
+56bf17653aeaaa14008c9511,Who was given the esteemed status of MVP for Super Bowl 50?,von miller,"['Von Miller', 'Von Miller', 'Miller']",0.9495554268360138,1,1.0
+56bf17653aeaaa14008c9513,What position does Von Miller play for the Denver Broncos?,linebacker,"['linebacker', 'linebacker', 'linebacker']",0.35315921902656555,1,1.0
+56bf17653aeaaa14008c9514,What was the number of solo tackles that Von Miller had in Super Bowl 50?,five,"['5', 'five', 'five']",0.7769163846969604,1,1.0
+56bf17653aeaaa14008c9515,How many forced fumbles did Von Miller have during the Super Bowl 50 game?,"five solo tackles, 2½ sacks, and two","['2', 'two', 'two']",0.6387927532196045,0,0.25
+56d204ade7d4791d00902603,Who won the MVP for the Super Bowl?,von miller,"['Von Miller', 'Von Miller', 'Von Miller']",0.9712387025356293,1,1.0
+56d204ade7d4791d00902604,How many tackles did Von Miller get during the game?,five,"['5', 'five', 'five']",0.9175930917263031,1,1.0
+56d601e41c85041400946ece,How many times was Cam Newton sacked in Super Bowl 50?,seven,"['seven', 'seven', 'seven']",0.9699424803256989,1,1.0
+56d601e41c85041400946ecf,How many times did the Denver defense force Newton into turnovers?,seven times and forced him into three,"['three', 'three', 'three']",0.5826800763607025,0,0.25
+56d601e41c85041400946ed0,Which Newton turnover resulted in seven points for Denver?,a fumble,"['a fumble', 'a fumble', 'fumble']",0.63539057970047,1,1.0
+56d601e41c85041400946ed1,Who was the Most Valuable Player of Super Bowl 50?,von miller,"['Von Miller', 'Von Miller', 'Von Miller']",0.8690595924854279,1,1.0
+56d601e41c85041400946ed2,What position does Von Miller play?,denver linebacker,"['linebacker', 'linebacker', 'linebacker']",0.5068730711936951,0,0.6666666666666666
+56d98b33dc89441400fdb53b,How many times was the Panthers' quarterback sacked?,seven,"['seven', 'seven', 'seven']",0.9649004340171814,1,1.0
+56d98b33dc89441400fdb53c,How many times did the Broncos cause turnovers in the game?,three,"['three', 'three', 'three']",0.820516437292099,1,1.0
+56d98b33dc89441400fdb53d,What Denver player caused two fumbles for the Panthers?,von miller,"['Von Miller', 'Von Miller', 'Von Miller']",0.8724194169044495,1,1.0
+56d98b33dc89441400fdb53e,How many tackles did Von Miller accomlish by himself in the game?,five,"['five', 'five', 'five']",0.9294408857822418,1,1.0
+56be5333acb8001400a5030a,Which network broadcasted Super Bowl 50 in the U.S.?,cbs,"['CBS', 'CBS', 'CBS']",0.997981995344162,1,1.0
+56be5333acb8001400a5030b,What was the average cost for a 30 second commercial during Super Bowl 50?,$ 5 million,"['$5 million', '$5 million', '$5 million']",0.9936702847480774,1,1.0
+56be5333acb8001400a5030c,Which group headlined the Super Bowl 50 halftime show?,coldplay,"['Coldplay', 'Coldplay', 'Coldplay']",0.7461208403110504,1,1.0
+56be5333acb8001400a5030d,Which performers joined the headliner during the Super Bowl 50 halftime show?,beyonce and bruno mars,"['Beyoncé and Bruno Mars', 'Beyoncé and Bruno Mars', 'Beyoncé and Bruno Mars']",0.7029947936534882,0,0.75
+56be5333acb8001400a5030e,At which Super Bowl did Beyonce headline the halftime show?,super bowl xlviii,"['Super Bowl XLVII', 'Super Bowl XLVII', 'XLVII']",0.6211093366146088,0,0.6666666666666666
+56beaf5e3aeaaa14008c91fd,Who was the broadcaster for Super Bowl 50 in the United States?,cbs,"['CBS', 'CBS', 'CBS']",0.9959196448326111,1,1.0
+56beaf5e3aeaaa14008c91fe,What was the average cost of a 30-second commercial?,$ 5 million,"['$5 million', '$5 million', '$5 million']",0.9924722909927368,1,1.0
+56beaf5e3aeaaa14008c91ff,What halftime performer previously headlined Super Bowl XLVII?,beyonce and bruno mars,"['Beyoncé', 'Beyoncé', 'Beyoncé']",0.8576800525188446,0,0.0
+56beaf5e3aeaaa14008c9200,What halftime performer previously headlined Super Bowl XLVIII?,beyonce and bruno mars,"['Bruno Mars', 'Bruno Mars', 'Mars']",0.8356678783893585,0,0.6666666666666666
+56beaf5e3aeaaa14008c9201,Who was the main performer at this year's halftime show?,beyonce and bruno mars,"['Coldplay', 'Coldplay', 'Coldplay']",0.903652548789978,0,0.0
+56bf1ae93aeaaa14008c951b,Which network broadcasted the 50th Super Bowl game? ,cbs,"['CBS', 'CBS', 'CBS']",0.9969445466995239,1,1.0
+56bf1ae93aeaaa14008c951c,What was the average cost for a TV ad lasting 30 seconds during Super Bowl 50?,$ 5 million,"['$5 million', '$5 million', '$5 million']",0.9917806684970856,1,1.0
+56bf1ae93aeaaa14008c951e,Who was the male singer who performed as a special guest during Super Bowl 50?,beyonce and bruno mars,"['Bruno Mars', 'Bruno Mars', 'Bruno Mars,']",0.975362628698349,0,0.6666666666666666
+56bf1ae93aeaaa14008c951f,What ranking does the Super Bowl 50 halftime show have on the list of most watched TV broadcasts?,third,"['third', 'third', 'third']",0.9825921058654785,1,1.0
+56d2051ce7d4791d00902608,What station aired the Super Bowl?,cbs,"['CBS', 'CBS', 'CBS']",0.996441662311554,1,1.0
+56d2051ce7d4791d00902609,How much money did a 1/2 minute commercial cost?,$ 5 million,"['$5 million', '$5 million', '$5 million']",0.9294430315494537,1,1.0
+56d2051ce7d4791d0090260a,What band headlined half-time during Super Bowl 50?,coldplay,"['Coldplay', 'Coldplay', 'Coldplay']",0.7542439997196198,1,1.0
+56d2051ce7d4791d0090260b,What two artists came out with Coldplay during the half-time show?,beyonce and bruno mars,"['Beyoncé and Bruno Mars', 'Beyoncé and Bruno Mars', 'Beyoncé and Bruno Mars']",0.9590896368026733,0,0.75
+56d602631c85041400946ed8,Who broadcast the Super Bowl on TV?,cbs,"['CBS', 'CBS', 'CBS']",0.9952515661716461,1,1.0
+56d602631c85041400946eda,Who headlined the halftime show for Super Bowl 50?,coldplay with special guest performers beyonce and bruno mars,"['Coldplay', 'Coldplay', 'Coldplay']",0.5841023921966553,0,0.19999999999999998
