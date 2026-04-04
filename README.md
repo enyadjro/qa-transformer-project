@@ -1,5 +1,12 @@
 # Transformer-Based Question Answering: Fine-Tuning, Failure Modes, and Performance Trade-offs
 
+![Language](https://img.shields.io/badge/Language-Python-blue)
+![Method](https://img.shields.io/badge/Method-Deep%20Learning-orange)
+![Model](https://img.shields.io/badge/Model-Transformers-green)
+![Architecture](https://img.shields.io/badge/Architecture-BERT%20%7C%20DistilBERT-purple)
+![Task](https://img.shields.io/badge/Task-Question%20Answering-red)
+![Focus](https://img.shields.io/badge/Focus-Model%20Evaluation-lightgrey)
+
 This project builds an end-to-end transformer-based question answering (QA) system using the SQuAD dataset. It evaluates a strong pretrained baseline (BERT-large) and develops a fine-tuned DistilBERT model, highlighting trade-offs between model size, compute, and performance.
 
 ## Key Results
