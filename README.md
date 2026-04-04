@@ -131,4 +131,18 @@ This project demonstrates how transformer-based QA systems can move from researc
 
 ---
 
+```markdown
 ## Repository Structure
+qa-transformer-project/
+├── notebooks/
+│ └── qa_transformer_project.ipynb
+├── scripts/
+├── outputs/
+│ ├── figures/
+│ │ └── model_comparison.png
+│ ├── tables/
+│ │ ├── model_comparison.csv
+│ │ └── sample_predictions.csv
+├── data/
+├── requirements.txt
+└── README.md
