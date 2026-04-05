@@ -1,5 +1,7 @@
 # Transformer-Based Question Answering: Fine-Tuning, Failure Modes, and Performance Trade-offs
 
+Transformer-based NLP system for question answering, demonstrating deep learning and modern language modeling techniques.
+
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 ![Method](https://img.shields.io/badge/Method-Deep%20Learning-orange)
 ![Model](https://img.shields.io/badge/Model-Transformers-green)
